@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Quan_Ly_Kho"
         tools:targetApi="31">
         <activity
+            android:name=".Man_Hinh_Chao_Activity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
