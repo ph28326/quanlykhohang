@@ -10,5 +10,8 @@ public class Man_Hinh_Chao_Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_man_hinh_chao);
+
+
+        //toan up test
     }
 }
