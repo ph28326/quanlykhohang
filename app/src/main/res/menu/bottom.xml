@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/TongQuan"
+    android:title="Tổng quan"
+    android:icon="@drawable/quan"></item>
+    <item
+        android:id="@+id/Bill"
+        android:title="Hóa đơn "
+        android:icon="@drawable/bill"></item>
+    <item
+        android:id="@+id/HangHoa"
+        android:title="Hàng hóa "
+        android:icon="@drawable/hhoa"></item>
+    <item
+        android:id="@+id/Menu"
+        android:title="Menu"
+        android:icon="@drawable/menu"></item>
+</menu>
